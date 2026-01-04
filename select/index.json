@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "All Bite No Bark",
+  "base_artist": "DupliCity -eilie-",
+  "createdAt": "2026-01-04T12:32:48.828055Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "All Bite No Bark",
+      "artist": "DupliCity -eilie-",
+      "has_synced": false,
+      "path": "select/01_All_Bite_No_Bark_DupliCity_-eilie-.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "All Bite No Bark",
+      "artist": "DupliCity -eilie-",
+      "has_synced": false,
+      "path": "select/pl_01_All_Bite_No_Bark_DupliCity_-eilie-.txt"
+    }
+  ]
+}
